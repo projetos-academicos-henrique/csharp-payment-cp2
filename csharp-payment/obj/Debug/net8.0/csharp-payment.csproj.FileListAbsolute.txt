@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\bin\Debug\net8.0\csharp-payment.exe
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\bin\Debug\net8.0\csharp-payment.deps.json
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\bin\Debug\net8.0\csharp-payment.runtimeconfig.json
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\bin\Debug\net8.0\csharp-payment.dll
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\bin\Debug\net8.0\csharp-payment.pdb
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.sourcelink.json
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.dll
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\refint\csharp-payment.dll
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.pdb
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\csharp-payment.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\csharp-payment\csharp-payment\obj\Debug\net8.0\ref\csharp-payment.dll
