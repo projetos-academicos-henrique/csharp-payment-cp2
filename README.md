@@ -27,4 +27,4 @@ O projeto utiliza uma interface `IPagamento` para garantir que qualquer novo mé
 
 **Print do sistema:**
 
-[Print do sistema]('./print.png')
+![Print do sistema](https://raw.githubusercontent.com/projetos-academicos-henrique/csharp-payment-cp2/refs/heads/main/print.png)
